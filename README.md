@@ -1,5 +1,5 @@
 # GoogleDomainsDDNSUpdater
-Google Domains Dynamic DNS Updater batch file for Windows 10, 11, and Linux bash
+Google Domains Dynamic DNS Updater batch file for Windows 10, 11, and Linux bash.
 Updates DNS Record with IPv4 address of host machine, intended to be run on a schedule with Windows Task Scheduler or Cron. 
 ## Before Setup
 Prior to editing the file, you will need to:
